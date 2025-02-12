@@ -11,10 +11,19 @@
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=SQL&logoColor=E9D54D)
 ![JIRA](https://img.shields.io/badge/-JIRA-090909?style=for-the-badge&logo=JIRA&logoColor=E5D3FF)
 ![DeVTools](https://img.shields.io/badge/-DeVTools-090909?style=for-the-badge&logo=DeVTools&logoColor=6296CC)
+![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman&logoColor=6296CC)
 
 ### Courses
 
+https://www.youtube.com/watch?v=yvPtNCvx_jM&list=PLKbJd47Kcbju2Vhi-FL7AI14vItVmGYk-
 https://stepik.org/cert/2738564
+
+## personal qualities
+
+Обучаемость
+Внимательность
+Коммуникабельность
+Дисциплинированность
 
 ## Follow Me
 
