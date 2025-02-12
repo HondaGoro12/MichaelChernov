@@ -14,6 +14,6 @@
 
 ### Courses
 
-!(https://stepik.org/cert/2738564)
+https://stepik.org/cert/2738564
 
 Follow Me
