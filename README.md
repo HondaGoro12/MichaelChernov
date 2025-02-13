@@ -15,15 +15,18 @@
 
 ### Courses
 
-https://www.youtube.com/watch?v=yvPtNCvx_jM&list=PLKbJd47Kcbju2Vhi-FL7AI14vItVmGYk-
+https://www.youtube.com/watch?v=yvPtNCvx_jM&list=PLKbJd47Kcbju2Vhi-FL7AI14vItVmGYk- <br>
 https://stepik.org/cert/2738564
 
 ## personal qualities
 
-Обучаемость
-Внимательность
-Коммуникабельность
-Дисциплинированность
+<ul>
+  <li>Обучаемость</li>
+  <li>Внимательность</li>
+  <li>Коммуникабельность</li>
+  <li>Дисциплинированность</li>
+</ul>
+
 
 ## Follow Me
 
